@@ -49,6 +49,5 @@ This project focuses on identifying and visualizing fraudulent credit card trans
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](https://github.com/Swapnil0895/Credit_Card_Fraud_Risk_Analysis_Power-BI/blob/main/dashboard-preview.png?raw=true)
-
+![Dashboard Preview](https://github.com/Swapnil0895/Credit_Card_Fraud_Risk_Analysis_Power-BI/blob/main/Credit%20Card%20Fraud%20Risk%20Analytics.png?raw=true)
 
